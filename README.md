@@ -5,3 +5,5 @@
 - Fokus analisis
   - apa saja kata kunci yang paling mewakili setiap topik?
   - melakukan perbandingan model antara LDA dan BERTopic
+ 
+Sumber Dataset: https://www.kaggle.com/datasets/iwanmanurung/kompas-news-2019-2020/code

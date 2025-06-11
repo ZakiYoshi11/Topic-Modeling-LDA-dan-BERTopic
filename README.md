@@ -7,3 +7,7 @@
   - melakukan perbandingan model antara LDA dan BERTopic
  
 Sumber Dataset: https://www.kaggle.com/datasets/iwanmanurung/kompas-news-2019-2020/code
+
+sedangkan berikut merupakan hasil dari pylDavis
+![image](https://github.com/user-attachments/assets/29292da3-638a-4fe7-ab0d-55adfde9c8ad)
+
